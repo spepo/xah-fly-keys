@@ -3460,7 +3460,7 @@ Version 2019-02-12"
    ("r" . xah-fly-r-keymap)
    ("s" . save-buffer)
    ("t" . xah-fly-t-keymap)
-   ("u" . switch-to-buffer)
+   ("u" . consult-buffer)
    ;; v
    ("w" . xah-fly-w-keymap)
    ("x" . xah-toggle-previous-letter-case)
